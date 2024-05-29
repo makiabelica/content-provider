@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContentProvider</string>
+    <string name="texto_btn">Capturar Imagen</string>
 </resources>
